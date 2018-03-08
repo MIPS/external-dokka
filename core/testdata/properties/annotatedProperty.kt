@@ -1,0 +1,1 @@
+@Volatile var property = "test"
